@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/054ff0bb-4d0c-44b2-8626-4460b4303ae0/resourceGroups/growing-solution/providers/Microsoft.Web/sites/growing-ideas",
+    "appService.deploySubpath": "dist\\pagebuilder"
+}
